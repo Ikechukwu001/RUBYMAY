@@ -73,12 +73,6 @@ export default function ContactPage() {
       icon: "/Payment/discord.svg",
     },
     {
-      label: "X",
-      value: "@RubyMayTherapeutics146017",
-      href: "https://x.com/RubyMayTherapeutics146017",
-      icon: "/Payment/x.svg",
-    },
-    {
       label: "Email",
       value: " Rubymay.service@gmail.com",
       href: "mailto: Rubymay.service@gmail.com",
