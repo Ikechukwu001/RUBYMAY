@@ -17,7 +17,7 @@ const outfit = Outfit({
 });
 
 export const metadata = {
-  title: "Rose Linda Relax - Private Massage Experience",
+  title: "Ruby May - Private Massage Experience",
   description:
     "Private, one-on-one massage experience focused on comfort, relaxation, and personalized care.",
 };
