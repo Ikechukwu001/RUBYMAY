@@ -96,7 +96,7 @@ export async function POST(request) {
       // Allows direct reply to customer
       replyTo: email,
 
-      subject: `New Booking Request • Rose Linda`,
+      subject: `New Booking Request • Ruby May`,
 
       html: `
         <div style="
@@ -139,7 +139,7 @@ export async function POST(request) {
                 font-weight: 600;
                 color: #2b1f24;
               ">
-                Rose Linda Relax & Renew
+                Ruby May Therapeutics
               </h1>
 
               <p style="
@@ -289,7 +289,7 @@ export async function POST(request) {
       `,
 
       text: `
-New Booking Request • Rose Linda
+New Booking Request • Ruby May
 
 Name: ${name}
 Email: ${email}
