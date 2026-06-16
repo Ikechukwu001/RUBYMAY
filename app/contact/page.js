@@ -51,19 +51,19 @@ export default function ContactPage() {
     {
       label: "Phone",
       value: "303- 437-7274",
-      href: "tel:+14054316088",
+      href: "tel:+3034377274",
       icon: "/Payment/googlemessages.svg",
     },
     {
       label: "WhatsApp",
       value: "303- 437-7274",
-      href: "https://wa.me/14054316088",
+      href: "https://wa.me/3034377274",
       icon: "/Payment/whatsapp.svg",
     },
     {
       label: "Telegram",
       value: "@RubyMayTherapeutics_Relax_Renew",
-      href: "https://t.me/RubyMayTherapeutics_Relax_Renew",
+      href: "https://t.me/sweetRuby609",
       icon: "/Payment/telegram.svg",
     },
     {
@@ -77,21 +77,6 @@ export default function ContactPage() {
       value: " Rubymay.service@gmail.com",
       href: "mailto: Rubymay.service@gmail.com",
       icon: "/Payment/gmail.svg",
-    },
-  ];
-
-  const qrCodes = [
-    {
-      title: "WhatsApp QR",
-      image: "/RelaxRenewWhatsAppQr.jpeg",
-    },
-    {
-      title: "Signal QR",
-      image: "/RelaxRenewSignalQr.jpeg",
-    },
-    {
-      title: "Telegram QR",
-      image: "/RelaxRenewTelegramQr.jpeg",
     },
   ];
 
