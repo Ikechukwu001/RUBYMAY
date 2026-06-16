@@ -62,7 +62,7 @@ export default function ContactPage() {
     },
     {
       label: "Telegram",
-      value: "@RubyMayTherapeutics_Relax_Renew",
+      value: "@sweetRuby609",
       href: "https://t.me/sweetRuby609",
       icon: "/Payment/telegram.svg",
     },
